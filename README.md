@@ -17,9 +17,9 @@
 - 🤖 Tried to write an `AI` from scratch (three times) ([Baby's first AI steps](../../../baby-his-first-ai-steps), [New AI](../../../newAI), [Ai 2](../../../ai2))
   
 - 🔎 Wrote a program that tracks players, using their `API` and timed `GET` requests, on `Hypixel`, a popular minecraft server. ([Hytracker2](../../../HyTracker2))
-
-
-
+  
+  
+  
 
 
 
