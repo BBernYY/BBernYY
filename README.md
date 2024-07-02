@@ -9,7 +9,7 @@
 ## On coding
 - 💻 The language im actually kinda familiar with: `Python`
 - 🖥 Can also do *some*: `HTML/CSS/JS`
-- 🤖 And a tiny amount of: `C/C++/C#`
+- 🤖 A tiny amount of: `C/C++/C#`
 
 ### Things I've done:
 - 💬 Used RegEx to write an algorithm that, once selected from the webpage of quizlet/wrts, converts text into the `word=woord` format, so I can use them. [QuizletToWozzol](bbernyy.github.io/QuizletToWozzol)
