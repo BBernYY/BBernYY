@@ -18,6 +18,6 @@
   
 - 🔎 Wrote a program that tracks players, using their `API` and timed `GET` requests, on `Hypixel`, a popular minecraft server. ([Hytracker2](../../../HyTracker2))
 
----
 
-> _add me on discord!_ `@BBernYY`
+
+> add me on discord! `@BBernYY`
