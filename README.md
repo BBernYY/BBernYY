@@ -8,7 +8,8 @@
 
 ## On coding
 - 💻 The language im actually kinda familiar with: `Python`
-- 🖥 Can also do *some*: `HTML/CSS/JS`
+- 🖥 Can also do some: `HTML/CSS/JS`
+- 🦀 A little bit of: `RUST`
 - 🤖 A tiny amount of: `C/C++/C#`
 
 ### Things I've done:
