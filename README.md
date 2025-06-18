@@ -7,14 +7,16 @@
 - 🔭 Mathematics
 
 ## On coding
-- 💻 The language im actually kinda familiar with: `Python`
+- 💻 The language im most familiar with: `Python`
 - 🖥 Can also do some: `HTML/CSS/JS`
-- 🦀 A little bit of: `RUST`
+- 🦀 Also written projects in: `RUST`
 - 🤖 A tiny amount of: `C/C++/C#`
 
 ### Things I've done:
-- 💬 Used `RegEx` to write an algorithm that, once selected from the webpage of `quizlet/wrts`, converts text into an `a=b format`, so I can use them. ([QuizletToWozzol](../../../QuizletToWozzol))
-  
+<!-- - 💬 Used `RegEx` to write an algorithm that, once selected from the webpage of `quizlet/wrts`, converts text into an `a=b format`, so I can use them. ([QuizletToWozzol](../../../QuizletToWozzol)) -->
+
+- 🔢 Written an $n > 2^{64}$ `Vec<u8>`-based integer datatype in `Rust` ([Bignums](../../../bignums))
+
 - 🤖 Tried to write an `AI` from scratch (three times) ([Baby's first AI steps](../../../baby-his-first-ai-steps), [New AI](../../../newAI), [Ai 2](../../../ai2))
   
 - 🔎 Wrote a program that tracks players, using their `API` and timed `GET` requests, on `Hypixel`, a popular minecraft server. ([Hytracker2](../../../HyTracker2))
