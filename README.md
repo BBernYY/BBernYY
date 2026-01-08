@@ -13,7 +13,7 @@
 - 🤖 A tiny amount of: `C/C++/C#`
 
 ### Things I've done:
-<!-- - 💬 Used `RegEx` to write an algorithm that, once selected from the webpage of `quizlet/wrts`, converts text into an `a=b format`, so I can use them. ([QuizletToWozzol](../../../QuizletToWozzol)) -->
+- 🖼️ Written a full `3D` `ray-tracing renderer` from scratch with `pbr` models and texture sampling, in `GLSL` with`pymodernGL` ([PWS](../../../PWS))
 
 - 🔢 Written an $n > 2^{64}$ `Vec<u8>`-based integer datatype in `Rust` ([Bignums](../../../bignums))
 
