@@ -1,19 +1,20 @@
 # Welcome to my GitHub!
-> 🤔 Here I just upload all of the random stuff that I do!
+> 🤔 Here I upload all of the stuff that I do.
 
 ## About me
 - 🏫 High school student in the Netherlands, I do coding as a hobby
 - 🎶 Also enjoy doing music / playing video games
-- 🔭 Mathematics
+- 🔭 Interested in (double) majoring in computer science, physics or mathematics
 
 ## On coding
 - 💻 The language im most familiar with: `Python`
+- 📺️ Have written alot of `GLSL` GPU-code
 - 🖥 Can also do some: `HTML/CSS/JS`
 - 🦀 Also written projects in: `RUST`
-- 🤖 A tiny amount of: `C/C++/C#`
+- 🤖 Some amount of: `C/C++`
 
 ### Things I've done:
-- 🖼️ Written a full `3D` `ray-tracing renderer` from scratch with `pbr` models and texture sampling, in `GLSL` with`pymodernGL` ([PWS](../../../PWS))
+- ☀️ Written a full `3D` `ray-tracing renderer` from scratch with `pbr` models and texture sampling, in `GLSL` with`pymodernGL` ([PWS](../../../PWS))
 
 - 🔢 Written an $n > 2^{64}$ `Vec<u8>`-based integer datatype in `Rust` ([Bignums](../../../bignums))
 
@@ -23,6 +24,5 @@
 
 - 🖼️ Made a custom `image file format`, that stores `pixel data` using the closest `CSS3` name. ([SIGMA-format](../../../SIGMA-format))
 <br><br><br>
-> add me on discord! `@BBernYY`
 > 
 > *most (old) repos of mine will probably just be meaningless: dont mind them as theyre old and failed projects*
