@@ -1,5 +1,5 @@
-# Welcome to my GitHub!
-> 🤔 Here I upload all of the stuff that I do.
+# [BBernYY](https://bbernyy.eu)
+> go to [https://git.bbernyy.eu](https://git.bbernyy.eu) for more recent repos.
 
 ## About me
 - 🏫 High school student in the Netherlands, I do coding as a hobby
