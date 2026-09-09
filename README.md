@@ -2,9 +2,9 @@
 > go to [https://git.bbernyy.eu](https://git.bbernyy.eu) for more recent repos.
 
 ## About me
-- 🏫 High school student in the Netherlands, I do coding as a hobby
+- 🏫 University student in the Netherlands, I do coding as a hobby
 - 🎶 Also enjoy doing music / playing video games
-- 🔭 Interested in (double) majoring in computer science, physics or mathematics
+- 🔭 Majoring in Mathematics and CS at the University of Amsterdam
 
 ## On coding
 - 💻 The language im most familiar with: `Python`
